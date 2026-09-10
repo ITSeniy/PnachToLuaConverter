@@ -1,14 +1,6 @@
 # PnachToLuaConverter
 
-> Portfolio project by Arseniy Makhonin.
-
 A .NET command-line converter that translates PCSX2 PNACH memory patches into PS4 emulator Lua commands.
-
-## Highlights
-
-- Maintained as a reproducible, source-first portfolio project.
-- Build outputs, local secrets, proprietary dumps, and generated runtime data are excluded from version control.
-- The repository keeps project documentation close to the implementation.
 
 ## Technology
 
@@ -34,4 +26,4 @@ Original source code is available under the MIT License. Third-party dependencie
 
 Консольный .NET-конвертер патчей PCSX2 PNACH в Lua-команды эмулятора PS4.
 
-Репозиторий оформлен как портфолио: локальные секреты, результаты сборки и сторонние игровые/медиафайлы не должны попадать в Git.
+Разрабатывалось для более быстрой конвертации скриптов в формат PS2 Classics эмулятора.
